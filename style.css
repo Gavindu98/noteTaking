@@ -117,6 +117,9 @@ header .search input{
     background-color: #0984e3;
     border-collapse: collapse;
 }
+.container .table .note-body{
+    display: none;
+}
 .container .table table,
 .container .table table td {
     border: 2px #fff solid;
